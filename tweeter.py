@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#
-#  AdminPortal1.1.py
-#
-#  Copyright 2017 AVELAZCX <aldo.alfonsox.velasco.meza@intel.com>
+#	ALDO VELASCO MEZA
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
