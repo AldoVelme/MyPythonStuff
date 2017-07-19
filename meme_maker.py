@@ -1,3 +1,6 @@
+# ALDO TATO VEMEZA
+# 2016
+
 import sys
 
 from PIL import ImageDraw, ImageFont, Image
