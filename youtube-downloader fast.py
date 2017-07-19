@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  AdminPortal1.1.py
+#  YOUTUBE DOWNLOADER BY TATO VEMEZA
 #
-#  Copyright 2017 AVELAZCX <aldo.alfonsox.velasco.meza@intel.com>
+#  Copyright 2016 AVELAZCX <aldo.alfonsox.velasco.meza@intel.com>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
